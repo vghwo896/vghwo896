@@ -18,4 +18,4 @@ https://github.com/vghwo896/vghwo896.git# Hi there! 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vghwo896&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=vghwo896).
+
