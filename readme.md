@@ -1,10 +1,19 @@
 https://github.com/vghwo896/vghwo896.git# Hi there! 👋
-I'm [Your Name], a passionate developer from [Your Location].
+신입 개발자 이호재 입니다.
 
-- 🔭 I’m currently working on [Current Project].
-- 🌱 I’m currently learning [Technologies you're learning].
-- 💬 Ask me about [Your expertise].
-- 📫 How to reach me: [Your Contact Information].
-- ⚡ Fun fact: [Interesting fact about you].
+- 현재 기술 스택
+    -JAVA
+    -MySql
+    -HTML
+    -CSS
+    -JAVA Script
+- 지금 개인적으로 공부중인 라이브러리
+    - Spring-boot, JPA
+- 현재 작업한 프로젝트 5개
+- 이메일
+    -hj981114@gmail.com
+  - 구인 구직중 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/yourusername)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vghwo896&show_icons=true)](https://github.com/vghwo896)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vghwo896&layout=compact)](https://github.com/vghwo896
+[![Trophies](https://github-profile-trophy.vercel.app/?username=vghwo896)](https://github.com/ryo-ma/github-profile-trophy))
