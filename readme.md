@@ -12,7 +12,8 @@
 - 현재 작업한 프로젝트 5개
 - 이메일
     -hj981114@gmail.com
-  - 구인 구직중 
+- 구인 구직중
+  
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vghwo896&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vghwo896&layout=compact)
