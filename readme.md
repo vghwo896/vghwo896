@@ -1,7 +1,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20Bipats.git%20World!&animation=fadeIn&color=random)
 
-- 현재 기술 스택
+<center>- 현재 기술 스택</center>
     -JAVA
     -MySql
     -HTML
