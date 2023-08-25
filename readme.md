@@ -13,9 +13,9 @@
 - 이메일
     -hj981114@gmail.com
   - 구인 구직중 
-
+</center>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vghwo896&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vghwo896&layout=compact)
 
-</center>
+
